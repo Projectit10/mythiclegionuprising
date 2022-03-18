@@ -21,8 +21,17 @@
   * [Warrior](gameplay/warriors/warrior.md)
   * [Defender](gameplay/warriors/defender.md)
 * [Build Warrior](gameplay/build-warrior/README.md)
-  * [Rarity](gameplay/build-warrior/rarity.md)
-* [Gameplay](gameplay/gameplay.md)
+  * [Ratity](gameplay/build-warrior/ratity.md)
+  * [Fusion](gameplay/build-warrior/fusion.md)
+  * [Level up](gameplay/build-warrior/level-up.md)
+  * [Skills](gameplay/build-warrior/skills.md)
+  * [Weapons](gameplay/build-warrior/weapons.md)
+  * [Pets](gameplay/build-warrior/pets.md)
+* [Gameplay](gameplay/gameplay/README.md)
+  * [Boss Battle](gameplay/gameplay/boss-battle.md)
+  * [PVP](gameplay/gameplay/pvp.md)
+  * [Tournament](gameplay/gameplay/tournament.md)
+  * [Leaderboard](gameplay/gameplay/leaderboard.md)
 * [Land](gameplay/land.md)
 * [Guild](gameplay/guild.md)
 * [Metaverse](gameplay/metaverse.md)
@@ -30,6 +39,9 @@
 ## Economy
 
 * [Play to Earn](economy/play-to-earn.md)
+* [Legion Token](economy/legion-token.md)
+* [Alon Token](economy/alon-token.md)
+* [Ecosystem](economy/ecosystem.md)
 
 ## Official Channel
 
