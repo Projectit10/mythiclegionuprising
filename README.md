@@ -4,7 +4,7 @@ description: 'This is the official Mythic Legion: Uprising Whitepaper'
 
 # Mythic Legion: Uprising Official
 
-![](.gitbook/assets/9d5831b39a49f37c114a2f74021coho5.jfif)
+![](.gitbook/assets/MYTHIC\_LEGION.jpg)
 
 ## Mythic Legion: Uprising
 
