@@ -24,7 +24,7 @@ The total supply of ALN will never exceed 350,000,000.
 {% tab title="Alon Token" %}
 ## Token ALON
 
-Alon Token (ALN) is the utiliy token of Mythic Legion: Uprising issued on Binance Smart Chain
+Alon Token (ALN) is the utility token of Mythic Legion: Uprising issued on Binance Smart Chain
 
 The total supply of ALN is 350,000,000 tokens
 
