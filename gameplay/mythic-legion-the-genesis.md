@@ -26,7 +26,7 @@ Abbadon continued cursing the Sultanarians with his corrupted power and the once
 
 **"Brother, do not let greed and pride blind you from your purpose. This is not you! We must maintain the balance or everything would be meaningless."**
 
-Abbadon continued and with the tremendous voice and a bloodshed eye shouted,
+Abbadon looked at his brother and with the tremendous voice and a bloodshed eye shouted,
 
 **“The Land would be filled with hate and oppression as you, Bathala, won’t even like to visit your own throne to peep on the land that once was your sanctuary, and you my greatest nemesis will soon vanish on this realm.”**
 
