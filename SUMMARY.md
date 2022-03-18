@@ -21,7 +21,7 @@
   * [Warrior](gameplay/warriors/warrior.md)
   * [Defender](gameplay/warriors/defender.md)
 * [Build Warrior](gameplay/build-warrior/README.md)
-  * [Ratity](gameplay/build-warrior/ratity.md)
+  * [Rarity](gameplay/build-warrior/rarity.md)
   * [Fusion](gameplay/build-warrior/fusion.md)
   * [Level up](gameplay/build-warrior/level-up.md)
   * [Skills](gameplay/build-warrior/skills.md)

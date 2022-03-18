@@ -1,4 +1,4 @@
-# Ratity
+# Rarity
 
 ## Overview
 
