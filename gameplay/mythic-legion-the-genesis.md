@@ -20,7 +20,13 @@ This came out of Abbadon’s mouth as he expressed his exasperation with the Gao
 
 As time went by, Gaorajans slowly shifted to the Sultanaria Legion in search of better lives out there. With the decreasing size of his legion, Abbadon got enraged. As his envy grew stronger and stronger, causing his powers to be influenced by dark sinister force, Abbadon prompted a war against the Sultanaria Legion. He captured some of Tohan’s creations and cursed them with his corrupted powers.
 
-**”The heavens that bestows, let this power of mine grow. Scatter a desire on every soul, destruction come fall. Those whom turned their back on me with death they shall be. Forthwith, unfathomable creation, rise and ruin this Legion.”**
+**”The heavens that bestows, let this power of mine grow.**&#x20;
+
+**Scatter a desire on every soul, destruction come fall.**&#x20;
+
+**Those whom turned their back on me with death they shall be.**&#x20;
+
+**Forthwith, unfathomable creation, rise and ruin this Legion.”**
 
 Abbadon continued cursing the Sultanarians with his corrupted power and the once peaceful land turned into a wicked one. Tohan, concerned with his brother, tried to stop his plan and told him,
 
