@@ -19,6 +19,7 @@
   * [Sorcerer](gameplay/warriors/sorcerer.md)
   * [Warrior](gameplay/warriors/warrior.md)
   * [Defender](gameplay/warriors/defender.md)
+  * [Support](gameplay/warriors/support.md)
 * [Build Warrior](gameplay/build-warrior/README.md)
   * [Rarity](gameplay/build-warrior/rarity.md)
   * [Breeding](gameplay/build-warrior/breeding.md)
