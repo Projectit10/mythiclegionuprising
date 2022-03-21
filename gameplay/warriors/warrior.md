@@ -1,3 +1,13 @@
 # Warrior
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget eleifend ex, eu euismod orci. Cras laoreet maximus porta. Phasellus et gravida diam, nec eleifend eros. Morbi at nibh et turpis ornare convallis ac a nunc. Mauris sed vestibulum libero, pretium imperdiet nunc. Curabitur eu nibh ac magna aliquam semper. In lacinia aliquam enim ac volutpat. Suspendisse aliquam erat non mi egestas pharetra. Donec varius dolor metus, et condimentum urna finibus quis. Fusce porttitor sem sed ex laoreet vulputate. Duis sed ante libero. Praesent faucibus mauris sem, nec rutrum mi ultricies at. Morbi vel semper lacus, non blandit lectus. Cras at neque a felis suscipit imperdiet. Donec accumsan malesuada leo vel varius. Sed aliquet purus justo, vel auctor massa consequat quis.
+**Role:** Initiator, fighter
+
+**Attack type:** Melee
+
+**Appearance:** Black Hair, Brownish Color, Muscular body, and Wears a distinctive costume, composed of a red vest, dark pants and boots.
+
+#### Skills
+
+* **Passive Skill:** Hitting enemies 3 times his attack speed increases
+* **Dash Strike - Panday will dash and hit the enemy, breaking free of all slows affecting him. His next attack strikes a vital area of his foe, dealing bonus damage and break the armor of enemies.**
+* ****
