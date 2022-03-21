@@ -16,13 +16,11 @@ Hitter are ranged heroes whose power is almost completely centered on their main
 
 **Passive Skill:** Attack the near enemy by smashing his bolo continuously.
 
-**Skill 1:** Flicker Descent Skill Description: For attack speed, Mang-An can flicker in the opposite direction and smash his bolo into the enemy.
+**Skill 1: Flicker Descent Skill** - for attack speed, Mang-An can flicker in the opposite direction and smash his bolo into the enemy.
 
-**Skill 2:** Bolo of Fiendish Skill Description: Fly the bolo at the opponent at long range and deal with high damage.
+**Skill 2: Bolo of Fiendish Skill** - fly the bolo at the opponent at long range and deal with high damage.
 
-**Skill 3 (Ultimate Skill):** Rock Occlude Skill
-
-**Description:** Throws a big rock and blocks the enemy and rain bolos on the opponent in a blink.
+**Skill 3 (Ultimate Skill): Rock Occlude Skill** - Throws a big rock and blocks the enemy and rain bolos on the opponent in a blink.
 
 
 
