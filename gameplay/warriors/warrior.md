@@ -1,6 +1,6 @@
 # Warrior
 
-## **NERO**
+## ANDRES
 
 **Role:** Initiator, fighter
 
@@ -8,7 +8,7 @@
 
 **Appearance:** Black Hair, Brownish Color, Muscular body, and Wears a distinctive costume, composed of a red vest, dark pants and boots.
 
-#### Skills
+#### Skills:
 
 * **Passive Skill:** Hitting enemies 3 times his attack speed increases
 * **Dash Strike -** Panday will dash and hit the enemy, breaking free of all slows affecting him. His next attack strikes a vital area of his foe, dealing bonus damage and break the armor of enemies.
@@ -23,7 +23,7 @@ Fighter Attack type: Melee
 
 Appearance: Black hair, Brown eyes, Sexy body, all of her costume incarnations have retained some form of red bikini with a gold star on each brassiere cap, red helmet with ruby encrusted gold winged medallion, gold bracelets, golden medallion belt with a loincloth in the middle, and almost knee-high red stiletto boots.
 
-#### **Skills**
+#### **Skills:**
 
 * **Wicked power -** Darna awakens her wicked power, increasing her strength and allowing her basic attack to deal additional damage.
 * **Deadly stars -** Darna uses her belt that has medallion and can be used as throwing stars.

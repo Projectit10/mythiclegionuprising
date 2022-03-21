@@ -16,14 +16,14 @@ Slayers are creatures that are good at positioning and possess high burst damage
 
 **Appearance:** A small bald-headed creature with tiny sharp layers of teeth similar to the sharks. It has a pair of red eyes with the left one having a scar, two tiny horns on its forehead, and pointed ears like that of an elf. Its skinny body structure is covered with wrinkled skin. With its small stature, it has an ability to crawl very fast and climb walls.
 
-#### **Skills**
+#### **Skills:**
 
 * **Passive skill -** Increased basic attack and movement speed
 * **Vanquish Clench -** Its cry will echo and immobilize the enemy nearby.
 * **Ruthless Devour -** Kuyutha’s mouth will open up wide and devour its target.
 * **Swindling Screech** - A long cord will stretch out from Kuyutha’s navel, grabbing the target and pull towards itself.
 
-## **Bakunawa**
+## **BIYATAN**
 
 **Role:** Initiator
 

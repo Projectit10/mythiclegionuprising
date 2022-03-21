@@ -8,7 +8,7 @@
 
 **Appearance:** Brown skin color, slim guy, wearing a white long sleeves folded up to his elbow, jeans cut off up to his knee, bandana in his head, and always wearing a bag and an amulet around his neck.
 
-#### Skills
+#### Skills:
 
 * **Passive Skill - Divination Rituals (Pagtatawas)** - throwing rocks, if the enemy is hit their life will be reduced.
 * **Stunned** - A whole garlic knob will be thrown, making the enemy slow for 2 seconds and unable to move.
