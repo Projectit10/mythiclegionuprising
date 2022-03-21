@@ -1,6 +1,6 @@
 # Warrior
 
-## **Panday**
+**Panday**
 
 **Role:** Initiator, fighter
 
@@ -25,6 +25,6 @@ Appearance: Black hair, Brown eyes, Sexy body, all of her costume incarnations h
 
 #### **Skills**
 
-*
-
-**Wicked power**
+* **Wicked power -** Darna awakens her wicked power, increasing her strength and allowing her basic attack to deal additional damage.
+* **Deadly stars -** Darna uses her belt that has medallion and can be used as throwing stars.
+* **Fist Detonation -** Darna releases super strength and deals damage through the locked enemy. Damage increases 15%.
