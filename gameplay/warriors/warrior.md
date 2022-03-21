@@ -1,6 +1,6 @@
 # Warrior
 
-**Panday**
+## **Panday**
 
 **Role:** Initiator, fighter
 
@@ -14,6 +14,8 @@
 * **Dash Strike -** Panday will dash and hit the enemy, breaking free of all slows affecting him. His next attack strikes a vital area of his foe, dealing bonus damage and break the armor of enemies.
 * **Sword Smash -** Can be used to quickly kill minions and creeps, for best effect in lanes, hit the minions in a straight line. The skill’s actual AOE (Area Of Effect) and range is bigger than you think, It also slows heroes down. Hitting enemies with this skill will make them slow.
 * **Sword Execution -** Panday calls upon the might of his sword to attempt to execute an enemy champion.
+
+
 
 ## **Darna**
 

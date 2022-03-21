@@ -6,7 +6,7 @@ Hitter are ranged heroes whose power is almost completely centered on their main
 
 
 
-### MANG-AN
+## MANG-AN
 
 **Role:** Reap/Initiator&#x20;
 
@@ -23,7 +23,7 @@ Hitter are ranged heroes whose power is almost completely centered on their main
 
 
 
-### CRYTLAD
+## CRYTLAD
 
 **Role:** Brawl/Initiator
 
