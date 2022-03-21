@@ -1,3 +1,32 @@
+---
+description: The master of agility, highly-skilled in the art of killing!
+---
+
 # Slayer
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget eleifend ex, eu euismod orci. Cras laoreet maximus porta. Phasellus et gravida diam, nec eleifend eros. Morbi at nibh et turpis ornare convallis ac a nunc. Mauris sed vestibulum libero, pretium imperdiet nunc. Curabitur eu nibh ac magna aliquam semper. In lacinia aliquam enim ac volutpat. Suspendisse aliquam erat non mi egestas pharetra. Donec varius dolor metus, et condimentum urna finibus quis. Fusce porttitor sem sed ex laoreet vulputate. Duis sed ante libero. Praesent faucibus mauris sem, nec rutrum mi ultricies at. Morbi vel semper lacus, non blandit lectus. Cras at neque a felis suscipit imperdiet. Donec accumsan malesuada leo vel varius. Sed aliquet purus justo, vel auctor massa consequat quis.
+## **Overview**
+
+Slayers are creatures that are good at positioning and possess high burst damage which allow them to take out opponents easily. They can move very fast which help them easily escape from enemies However, if the player was not skilled in using its skills, slayers can be easily killed because they have lower HP.
+
+## **Kuyutha**
+
+Role: Controller
+
+Attack type: Magic
+
+Appearance: A small bald-headed creature with tiny sharp layers of teeth similar to the sharks. It has a pair of red eyes with the left one having a scar, two tiny horns on its forehead, and pointed ears like that of an elf. Its skinny body structure is covered with wrinkled skin. With its small stature, it has an ability to crawl very fast and climb walls.
+
+#### **Skills**
+
+* **Passive skill -** Increased basic attack and movement speed
+* **Vanquish Clench -** Its cry will echo and immobilize the enemy nearby.
+* **Ruthless Devour -** Kuyutha’s mouth will open up wide and devour its target.
+* **Swindling Screech** - A long cord will stretch out from Kuyutha’s navel, grabbing the target and pull towards itself.
+
+## **Bakunawa**
+
+Role: Initiator
+
+Attack type: Magic
+
+Appearance: A dragon-like serpent that is responsible for causing an eclipse, wind, and earthquake. It is as big as the skies above. It has blue scale eyes as sharp as the storm, teeth as sharp as thunder, and it flows gracefully like the wind dances with beauty. It governs the weather and the days determine as it moves.
