@@ -30,3 +30,11 @@ Role: Initiator
 Attack type: Magic
 
 Appearance: A dragon-like serpent that is responsible for causing an eclipse, wind, and earthquake. It is as big as the skies above. It has blue scale eyes as sharp as the storm, teeth as sharp as thunder, and it flows gracefully like the wind dances with beauty. It governs the weather and the days determine as it moves.
+
+Skills:
+
+* **Passive skill -** Creates a big earthquake as it slams its body and causes strong winds.
+* **Mega Slam -**It slams its body to create an earthquake and may leave opponents unable to move.
+* **Heavy Wind -** Creates a big blow that can damage the opponent and makes them flee far. It can also be used to push the team faster.
+* **Eclipse -** Creates a dark aura that may damage the opponents as they step on the dark aura.
+*
