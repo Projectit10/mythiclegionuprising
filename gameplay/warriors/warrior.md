@@ -1,6 +1,6 @@
 # Warrior
 
-## **Panday**
+## **NERO**
 
 **Role:** Initiator, fighter
 
@@ -15,9 +15,7 @@
 * **Sword Smash -** Can be used to quickly kill minions and creeps, for best effect in lanes, hit the minions in a straight line. The skill’s actual AOE (Area Of Effect) and range is bigger than you think, It also slows heroes down. Hitting enemies with this skill will make them slow.
 * **Sword Execution -** Panday calls upon the might of his sword to attempt to execute an enemy champion.
 
-
-
-## **Darna**
+## ALICIA
 
 Role: Warrior
 
