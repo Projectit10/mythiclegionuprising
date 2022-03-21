@@ -23,7 +23,7 @@
 * [Build Warrior](gameplay/build-warrior/README.md)
   * [Rarity](gameplay/build-warrior/rarity.md)
   * [Breeding](gameplay/build-warrior/breeding.md)
-  * [Level up](gameplay/build-warrior/level-up.md)
+  * [Level Up](gameplay/build-warrior/level-up.md)
   * [Skills](gameplay/build-warrior/skills.md)
   * [Skin](gameplay/build-warrior/skin.md)
   * [Battle Ability](gameplay/build-warrior/battle-ability.md)
@@ -38,9 +38,10 @@
 
 ## Economy
 
-* [Play to Earn](economy/play-to-earn.md)
 * [Tokenomics](economy/tokenomics.md)
+* [Play to Earn](economy/play-to-earn.md)
 * [Ecosystem](economy/ecosystem.md)
+* [Marketing](economy/marketing.md)
 
 ## Official Channel
 

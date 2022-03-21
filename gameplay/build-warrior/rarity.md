@@ -9,4 +9,4 @@ Rarity regulates battle token limit, max level, max slot skill.
 * Skill slot unlock: the maximum number of skills that a player can learn.
 * There are only 200 Divine warriors in Luna Rush, no more.
 
-There are 7 types of rarity warriors in Luna Rush
+There are 7 types of rarity warriors in Mythic Legion: Uprising
