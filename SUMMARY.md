@@ -2,7 +2,6 @@
 
 * [Mythic Legion: Uprising Official](README.md)
 * [Whitepaper](whitepaper.md)
-* [Tokenomic](tokenomic.md)
 * [Roadmap](roadmap.md)
 * [Team](team.md)
 * [Our Partners](our-partners.md)
@@ -39,8 +38,7 @@
 ## Economy
 
 * [Play to Earn](economy/play-to-earn.md)
-* [Legion Token](economy/legion-token.md)
-* [Alon Token](economy/alon-token.md)
+* [Tokenomics](economy/tokenomics.md)
 * [Ecosystem](economy/ecosystem.md)
 
 ## Official Channel
