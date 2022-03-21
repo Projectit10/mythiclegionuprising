@@ -10,11 +10,11 @@ Slayers are creatures that are good at positioning and possess high burst damage
 
 ## **Kuyutha**
 
-Role: Controller
+**Role:** Controller
 
-Attack type: Magic
+**Attack type:** Magic
 
-Appearance: A small bald-headed creature with tiny sharp layers of teeth similar to the sharks. It has a pair of red eyes with the left one having a scar, two tiny horns on its forehead, and pointed ears like that of an elf. Its skinny body structure is covered with wrinkled skin. With its small stature, it has an ability to crawl very fast and climb walls.
+**Appearance:** A small bald-headed creature with tiny sharp layers of teeth similar to the sharks. It has a pair of red eyes with the left one having a scar, two tiny horns on its forehead, and pointed ears like that of an elf. Its skinny body structure is covered with wrinkled skin. With its small stature, it has an ability to crawl very fast and climb walls.
 
 #### **Skills**
 
@@ -25,16 +25,15 @@ Appearance: A small bald-headed creature with tiny sharp layers of teeth similar
 
 ## **Bakunawa**
 
-Role: Initiator
+**Role:** Initiator
 
-Attack type: Magic
+**Attack type:** Magic
 
 Appearance: A dragon-like serpent that is responsible for causing an eclipse, wind, and earthquake. It is as big as the skies above. It has blue scale eyes as sharp as the storm, teeth as sharp as thunder, and it flows gracefully like the wind dances with beauty. It governs the weather and the days determine as it moves.
 
-Skills:
+#### **Skills:**
 
 * **Passive skill -** Creates a big earthquake as it slams its body and causes strong winds.
 * **Mega Slam -**It slams its body to create an earthquake and may leave opponents unable to move.
 * **Heavy Wind -** Creates a big blow that can damage the opponent and makes them flee far. It can also be used to push the team faster.
 * **Eclipse -** Creates a dark aura that may damage the opponents as they step on the dark aura.
-*
