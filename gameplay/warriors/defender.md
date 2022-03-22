@@ -8,7 +8,7 @@ description: Front-line Giants and Setter of the team!
 
 Defender is the most durable and holds long life in the game. Their primary role is to deny penetration from the attacks of enemy. Defenders possess rock-hard build that grant protection for their fragile team mates.
 
-## ELASTIKO
+## YUL
 
 **Role:** Initiator/Setter
 
