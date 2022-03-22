@@ -1,6 +1,6 @@
 # Hitter
 
-## Overview
+## OVERVIEW
 
 Hitter are ranged heroes whose power is almost completely centered on their main assaults: they can take out even the most powerful enemies by leveraging their reach to strike tremendous continuous damage from afar.
 

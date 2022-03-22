@@ -4,7 +4,7 @@ description: The master of agility, highly-skilled in the art of killing!
 
 # Slayer
 
-## **Overview**
+## OVERVIEW
 
 Slayers are creatures that are good at positioning and possess high burst damage which allow them to take out opponents easily. They can move very fast which help them easily escape from enemies However, if the player was not skilled in using its skills, slayers can be easily killed because they have lower HP.
 
