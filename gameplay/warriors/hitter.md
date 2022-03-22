@@ -19,7 +19,7 @@ Hitter are ranged heroes whose power is almost completely centered on their main
 * **Bolo of Fiendish Skill** - fly the bolo at the opponent at long range and deal with high damage.
 * **Rock Occlude Skill** **(Ultimate Skill):**- Throws a big rock and blocks the enemy and rain bolos on the opponent in a blink.
 
-## CRYTLAD/BUDONG/THEOFILO
+## CRYTLAD
 
 **Role:** Brawl/Initiator
 
