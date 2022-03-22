@@ -1,4 +1,12 @@
+---
+description: Support of the team!
+---
+
 # Support
+
+## OVERVIEW
+
+Support is bringing a variety assets to the team. Their primary role is to provide healing skills and full protection for their allies. These characters give the team a strong utility, suitability, and have a good technique in slowing down the enemies.
 
 ## LUNAS
 
@@ -6,14 +14,14 @@
 
 **Attack type:** Long Ranged
 
-**Appearance:** Brown skin color, slim guy, wearing a white long sleeves folded up to his elbow, jeans cut off up to his knee, bandana in his head, and always wearing a bag and an amulet around his neck.
+**Appearance:** A handsome black hair guy with a slim body. The color of his skin is brown and the color of his eyes were different, one is black and the other one is blue. He is wearing his white long sleeves folded up to his elbow, jeans cut off up to his knee, a bandana in his head, a bag across his body, and a sharp amulet around his neck.
 
 #### Skills:
 
-* **Passive Skill - Divination Rituals (Pagtatawas)** - throwing rocks, if the enemy is hit their life will be reduced.
-* **Stunned** - A whole garlic knob will be thrown, making the enemy slow for 2 seconds and unable to move.
-* **Slowed** - using his 2 hands, he will throw something, it will create a green circle slowing the enemy and dealing damage to the enemy that will be hit. Skill
-* **Ultimate Heal** - using his 2 hands, he will throw something, wit will create a green circle granting power to heal to himself and an ally nearby for 5 seconds.
+* **Passive Skill:** Divination Rituals (Pagtatawas)
+* **Stunned** - a whole garlic knob will be thrown, making the enemy slow for 2 seconds and unable to move.
+* **Slowed** - using both of his hands, he will throw something creating a green circle that slows down and deal damage to the enemy that will be hit.
+* **Ultimate Heal** - using his two hands, he will throw something, which will create a green circle, granting power to heal himself and an ally nearby for 5 seconds.
 
 ## MUNTI
 
@@ -21,7 +29,7 @@
 
 **Attack type:** Long Ranged
 
-**Appearance:** A short old looking man, tanned skin like the color of a soil, gray eyebrow with a gray long beard and mustache. Wearing dirty clothes and a Native Hat (Salakot) holding a cane as a weapon. Passive Skill: Magic Cane
+**Appearance:** A short old looking man, tanned skin like the color of soil, and thick gray eyebrow with a gray long beard and mustache. Wearing dirty color clothes and like a Native Hat (Salakot). He is also holding a scepter as a weapon.
 
 #### Skills:
 
