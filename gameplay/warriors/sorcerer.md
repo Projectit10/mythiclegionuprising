@@ -4,7 +4,7 @@ description: Magic, Intelligence and Will-power
 
 # Sorcerer
 
-## OVERVIEW
+OVERVIEW
 
 **SORCERERS** often rely on their instincts and intelligence. Some are born with innate magical abilities while others need to study and train. They were able to wield magic by means of studying or harnessing powers from supernatural sources around them. When in the field of battle they do not hesitate to unleash their powerful magic, defeating their enemy even from afar
 
@@ -63,7 +63,7 @@ description: Magic, Intelligence and Will-power
 
 #### _**\*Upon completing Corazon mastery,**_ Carisimo _**will unlock.**_
 
-## **CARSISIMO (Male)**
+## **CARISIMO (Male)**
 
 **Role:** Sorcerer
 
