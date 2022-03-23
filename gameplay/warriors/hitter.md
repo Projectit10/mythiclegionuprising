@@ -40,7 +40,7 @@ Hitters are ranged heroes whose power is almost completely centered on their mai
 * **Bolo of Fiendish Skill** - Throw the bolo at the opponent at long range and deal with high damage.
 * **Rock Occlude Skill (Ultimate Skill)**- **** Throws a big rock suppressing the opponent as bolos rain down on the target in a blink.
 
-## TEO
+## TEO (Male)
 
 **Role:** Brawl/Initiator
 
@@ -51,7 +51,7 @@ Hitters are ranged heroes whose power is almost completely centered on their mai
 **Skills:**
 
 * **Passive Skill:** Super Strength, Super Speed, and Soaring that possess the power to make great leaps in the air.
-* **Hurricane Spin** - By spinning himself at maximum speeds, he can generate a mini tornado that deals damage to the opposing team in the blink of an eye.
+* **Hurricane Spin** - By spinning himself at maximum speeds, he can generate a mini-tornado that deals damage to the opposing team in the blink of an eye.
 * **Projectile Marbles** - He can throw marbles from his satchel bag to set up traps for opponents that immobilize them instantly.
 * **Electro fire Blast** - He can fire his strongest beam with a combination of fire and electricity.
 
