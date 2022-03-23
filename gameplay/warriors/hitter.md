@@ -4,7 +4,7 @@
 
 Hitter are ranged heroes whose power is almost completely centered on their main assaults: they can take out even the most powerful enemies by leveraging their reach to strike tremendous continuous damage from afar.
 
-## MANG-AN
+## MANG-AN (Male)
 
 **Role:** Reap/Initiator&#x20;
 
@@ -18,6 +18,23 @@ Hitter are ranged heroes whose power is almost completely centered on their main
 * **Flicker Descent Skill** - for attack speed, Mang-An can flicker in the opposite direction and smash his bolo into the enemy.
 * **Bolo of Fiendish Skill** - fly the bolo at the opponent at long range and deal with high damage.
 * **Rock Occlude Skill** **(Ultimate Skill):**- Throws a big rock and blocks the enemy and rain bolos on the opponent in a blink.
+
+#### _**\*Upon completing Mang-an mastery, Eda-Inez will unlock.**_
+
+## EDA-INEZ (Female)
+
+**Role:** Reap/ Initiator
+
+**Attack Type:** Rykk Blade
+
+**Appearance:** Wavy black hair up to waist, has an innocent but goddess face, wears a yakan headscarf as a headdress and a thin red woven fabric sweetheart tube top reaches mid-thigh and has a little slit in the right thigh and, there is a gold bracelet on the right and left arm and both in the middle part.
+
+#### Skills:
+
+* **Passive Skill:** Throw a rykk blade towards the minions and the enemy continuously.
+* **Melee Dash Skill** - For 3 seconds, get closer to the opponent and slash her with her rykk blade four times
+* **Rykk blade of Fiendish Skill** - Fly the rykk blade at the opponent at long range and deal with high damage.
+* **Caper gash Skill** - Jump in the middle of the enemy and use the larger rykk blade to slam all of the enemies with lightning speed.
 
 ## TEO
 
