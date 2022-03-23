@@ -23,6 +23,12 @@ Slayers are creatures that are good at positioning and possess high burst damage
 * **Ruthless Devour -** Kuyutha’s mouth will open up wide and devour its target.
 * **Swindling Screech** - A long cord will stretch out from Kuyutha’s navel, grabbing the target and pull towards itself.
 
+#### _**Upon completing Kuyutha mastery, Cathri will unlock.**_
+
+## **Cathri (Female)**
+
+
+
 ## **BIYATAN**
 
 **Role:** Initiator
