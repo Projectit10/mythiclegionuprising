@@ -23,11 +23,22 @@ Slayers are creatures that are good at positioning and possess high burst damage
 * **Ruthless Devour -** Kuyutha’s mouth will open up wide and devour its target.
 * **Swindling Screech** - A long cord will stretch out from Kuyutha’s navel, grabbing the target and pull towards itself.
 
-#### _**Upon completing Kuyutha mastery, Cathri will unlock.**_
+#### _**\*Upon completing Kuyutha mastery, Cathri will unlock.**_
 
 ## **Cathri (Female)**
 
+**Role:** Controller
 
+**Attack type:** Magic
+
+**Appearance:** A petite red-haired creature with a charismatic face but as it smiles, its tiny sharp layers of teeth become visible. It has a pair of red eyes, two tiny horns on its forehead, and pointed ears like that of an elf. It has a slim body structure and flawless skin. With its small stature, it has an ability to crawl very fast and climb walls.
+
+#### **Skills:**
+
+* **Passive skill -** Increased basic attack and movement speed
+* **Vanquish Clench -** Its cry will echo and immobilize the enemy nearby.
+* **Ruthless Devour -** Kuyutha’s mouth will open up wide and devour its target.
+* **Swindling Screech -** A long cord will stretch out from Kuyutha’s navel, grabbing the target and pull towards itself.
 
 ## **BIYATAN**
 
