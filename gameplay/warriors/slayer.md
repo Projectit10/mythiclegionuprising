@@ -31,14 +31,14 @@ Slayers are creatures that are good at positioning and possess high burst damage
 
 **Attack type:** Magic
 
-**Appearance:** A petite red-haired creature with a charismatic face but as it smiles, its tiny sharp layers of teeth become visible. It has a pair of red eyes, two tiny horns on its forehead, and pointed ears like that of an elf. It has a slim body structure and flawless skin. With its small stature, it has the ability to crawl very fast and climb walls.
+**Appearance:** A petite red-haired creature with a charismatic face but as it smiles, its tiny sharp layers of teeth become visible. It has a pair of red eyes, two tiny horns on its forehead, and pointed ears like that of an elf. It has a slim body structure and flawless skin. With its small stature, it has an ability to crawl very fast and climb walls.
 
 #### **Skills:**
 
 * **Passive skill:** Increased basic attack and movement speed
 * **Vanquish Clench -** Its cry will echo and immobilize the enemy nearby.
-* **Ruthless Devour -** Cathri's mouth will open up wide and devour its target.
-* **Swindling Screech -** A long cord will stretch out from Cathri's navel, grabbing the target and pull towards itself.
+* **Ruthless Devour -** Kuyutha’s mouth will open up wide and devour its target.
+* **Swindling Screech -** A long cord will stretch out from Kuyutha’s navel, grabbing the target and pull towards itself.
 
 ## **BIYATAN (Male)**
 
@@ -51,7 +51,7 @@ Appearance: A dragon-like serpent that is responsible for causing an eclipse, wi
 #### **Skills:**
 
 * **Passive skill:** Creates a big earthquake as it slams its body and causes strong winds.
-* **Mega Slam -** It slams its body to create an earthquake and may leave opponents unable to move.
+* **Mega Slam -**It slams its body to create an earthquake and may leave opponents unable to move.
 * **Heavy Wind -** Creates a big blow that can damage the opponent and makes them flee far. It can also be used to push the team faster.
 * **Eclipse -** Creates a dark aura that may damage the opponents as they step on the dark aura.
 
