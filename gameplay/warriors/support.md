@@ -37,8 +37,8 @@ Support is bringing the variety assets to the team. Their primary role is to pro
 
 * **Passive Skill:** Divination Rituals (Pagtatawas)
 * **Stunned** - A whole garlic knob will be thrown, making the enemy slow for 2 seconds and unable to move.
-* **Slowed** - Using his 2 hands, he will throw something, which will create a green circle slowing the enemy and dealing damage to the enemy that will be hit.
-* **Ultimate Heal** - Using his 2 hands, he will throw something, wit will create a green circle granting power to heal to himself and an ally nearby for 5 seconds.
+* **Slowed** - Using her 2 hands, she will throw something, which will create a green circle slowing the enemy and dealing damage to the enemy that will be hit.
+* **Ultimate Heal** - Using her 2 hands, she will throw something, wit will create a green circle granting power to heal to himself and an ally nearby for 5 seconds.
 
 ## MUNTI (Male)
 
@@ -67,8 +67,8 @@ Appearance: A short old looking woman, tanned skin like the color of soil, and h
 
 #### Skills:
 
-* **Passive Skill: Magic Cane** - Activate cane then a lightning-like magic will appear dealing damage to an enemy hit.
-* **Mound** - Will throw a ball of soil then a mound will grow, if the enemy is hit or step on it, they will be slowed for 5 seconds.&#x20;
+* **Passive Skill: Magic Cane** - Activate cane then lightning-like magic will appear dealing damage to an enemy hit.
+* **Mound** - Will throw a ball of soil then a mound will grow, if the enemy is hit or stepped on it, they will be slowed for 5 seconds.&#x20;
 * **Blink** - Throwing skill making the enemy come forced, Throwing skill making the enemy come forcefully like it was dragged through the use of magic
 * **Shield** - Making a dome-like shield (mound), whoever is hit will be trapped for 8 seconds.
 

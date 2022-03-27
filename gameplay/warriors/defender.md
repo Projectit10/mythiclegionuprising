@@ -14,7 +14,7 @@ Defender is the most durable and holds long life in the game. Their primary role
 
 **Attack Type:** Defender
 
-**Appearance:** He has a slim body that can be stretch like rubber. He has a short black hair, with a broad face and narrow jaw. It also has a pair of dark chocolate hues eyes and a pointed nose. For the costume, he wears a silk fitted black pants and white Long Sleeve Half Tank Top Vest.
+**Appearance:** He has a slim body that can be stretched like rubber. He has short black hair, with a broad face and narrow jaw. It also has a pair of dark chocolate hues eyes and a pointed nose. For the costume, he wears silk fitted black pants and a white Long Sleeve Half Tank Top Vest.
 
 #### Skills:
 
@@ -30,13 +30,13 @@ Defender is the most durable and holds long life in the game. Their primary role
 
 **Attack Type:** Melee/Defender
 
-**Appearance:** She has a slim hourglass body. A long black hair is highlighted with azure blue color. She has an angelic face, narrow chocolate brown eyes, and a pointed nose. For the costume, he wears silk fitted jeans and a white crop top vest.
+**Appearance:** She has a slim hourglass body. A long black hair is highlighted with azure blue color. She has an angelic face, narrow chocolate brown eyes, and a pointed nose. For the costume, she wears silk fitted jeans and a white crop top vest.
 
 #### Skills:
 
-* **Elastic Punch Skill **_**-**_ Khloe stretches his arm in a specified direction, dealing damage to all enemy units in the path and knocking the enemy in the path end airborne.
-* **Bounce Man/Elastic Ball Skill** - Khloe turned himself into a rubber ball that increase his physical and magical defense. Enemies' blink skills are being deflected while using this skill.
-* **Catapult** - Khloe catches all the enemies around him and throws them in a specified direction. If the enemies are knocked, they will get stunned, instead of slowed.
+* **Elastic Punch Skill **_**-**_ Khloe stretches her arm in a specified direction, dealing damage to all enemy units in the path and knocking the enemy in the path end airborne.
+* **Bounce Man/Elastic Ball Skill** - Khloe turned herself into a rubber ball that increase her physical and magical defense. Enemies' blink skills are being deflected while using this skill.
+* **Catapult** - Khloe catches all the enemies around her and throws them in a specified direction. If the enemies are knocked, they will get stunned, instead of slowed.
 
 ## AYAS (Male)
 

@@ -31,12 +31,12 @@ Hitters are ranged heroes whose power is almost completely centered on their mai
 
 **Attack Type:** Rykk Blade
 
-**Appearance:** Possesses an innocent face of a goddess with a wavy black hair reaching down to her waist. She wears a yakan headscarf and a thin red sweetheart tube dress made from woven fabric with mid-thigh length and little slit in the lower right part. On both of her hands were gold bracelets and arm cuffs. She holds a ryyk blade as her weapon in the combat.
+**Appearance:** Possesses an innocent face of a goddess with wavy black hair reaching down to her waist. She wears a yakan headscarf and a thin red sweetheart tube dress made from woven fabric with mid-thigh length and a little slit in the lower right part. On both of her hands were gold bracelets and arm cuffs. She holds a ryyk blade as her weapon in combat.
 
 #### Skills:
 
-* **Passive Skill:** Attack the nearby enemy by smashing his bolo continuously.
-* **Flicker Descent Skill**- For attack speed, Eda-Inez can flicker in the opposite direction and smash his bolo into the enemy.
+* **Passive Skill:** Attack the nearby enemy by smashing her bolo continuously.
+* **Flicker Descent Skill**- For attack speed, Eda-Inez can flicker in the opposite direction and smash her bolo into the enemy.
 * **Bolo of Fiendish Skill** - Throw the bolo at the opponent at long range and deal with high damage.
 * **Rock Occlude Skill (Ultimate Skill)**- **** Throws a big rock suppressing the opponent as bolos rain down on the target in a blink.
 
@@ -46,7 +46,7 @@ Hitters are ranged heroes whose power is almost completely centered on their mai
 
 **Attack type:** Melee/Hitter
 
-**Appearance:** His hair is white with natural blue highlights and has nut-brown eyes. His costume is essentially pair of bright color blue sleeveless shirt, knee-high cargo pants, and goggles. He is also wearing a pair of leather gloves and gladiator sandals with a satchel bag wrapped around his body.
+**Appearance:** His hair is white with natural blue highlights and has nut-brown eyes. His costume is essentially pair of bright color blue sleeveless shirts, knee-high cargo pants, and goggles. He is also wearing a pair of leather gloves and gladiator sandals with a satchel bag wrapped around his body.
 
 **Skills:**
 
@@ -68,9 +68,9 @@ Hitters are ranged heroes whose power is almost completely centered on their mai
 **Skills:**
 
 * **Passive Skill:** Super Strength, Super Speed, and Soaring that possess the power to make great leaps in the air.
-* **Hurricane Spin -** By spinning himself at maximum speeds, he can generate a mini-tornado that deals damage to the opposing team in the blink of an eye.
-* **Projectile Marbles -** He can throw marbles from his satchel bag to set up traps for opponents that immobilize them instantly.
-* **Electro fire Blast -** He can fire his strongest beam with a combination of fire and electricity.
+* **Hurricane Spin -** By spinning herself at maximum speeds, she can generate a mini-tornado that deals damage to the opposing team in the blink of an eye.
+* **Projectile Marbles -** She can throw marbles from her satchel bag to set up traps for opponents that immobilize them instantly.
+* **Electro fire Blast -** She can fire her strongest beam with a combination of fire and electricity.
 
 
 
