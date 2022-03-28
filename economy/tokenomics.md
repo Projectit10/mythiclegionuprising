@@ -2,7 +2,7 @@
 
 {% tabs %}
 {% tab title="Legion Token" %}
-## Legion ALON
+## Legion Token
 
 Legion Token (LGN) is the governance token of Mythic Legion: Uprising issued on Binance Smart Chain
 
@@ -22,7 +22,7 @@ The total supply of ALN will never exceed 350,000,000.
 {% endtab %}
 
 {% tab title="Alon Token" %}
-## Token ALON
+## Alon Token
 
 Alon Token (ALN) is the utility token of Mythic Legion: Uprising issued on Binance Smart Chain
 
