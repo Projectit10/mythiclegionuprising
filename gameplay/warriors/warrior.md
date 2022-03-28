@@ -31,10 +31,10 @@ Champions role that relied on attack physical damage, and defensive items to sta
 
 #### Skills:
 
-* **Passive Skill:** Hitting enemies 3 times his attack speed increases
-* **Dash Strike -** Galia **** will dash and hit the enemy, breaking free of all slows affecting him. His next attack strikes a vital area of his foe, dealing bonus damage and breaking the armor of enemies.
+* **Passive Skill:** Hitting enemies 3 times her attack speed increases
+* **Dash Strike -** Galia **** will dash and hit the enemy, breaking free of all slows affecting her. Her next attack strikes a vital area of her foe, dealing bonus damage and breaking the armor of enemies.
 * **Sword Smash -** Can be used to quickly kill minions and creeps, for best effect in lanes, hit the minions in a straight line. The skill’s actual AOE (Area Of Effect) and range is bigger than you think, It also slows heroes down. Hitting enemies with this skill will make them slow.
-* **Sword Execution -** Galia calls upon the might of his sword to attempt to execute an enemy champion.
+* **Sword Execution -** Galia calls upon the might of her sword to attempt to execute an enemy champion.
 
 ## ALICIA (Female)
 
@@ -42,7 +42,7 @@ Champions role that relied on attack physical damage, and defensive items to sta
 
 **Attack type:** Melee
 
-A**ppearance:** Black hair, Brown eyes, Sexy body, all of her costume incarnations have retained some form of red bikini with a gold star on each brassiere cap, red helmet with ruby encrusted gold winged medallion, gold bracelets, golden medallion belt with a loincloth in the middle, and almost knee-high red stiletto boots.
+A**ppearance:** Black hair, Brown eyes, Sexy body, all of her costume incarnations have retained some form of red bikini with a gold star on each brassiere cap, red helmet with ruby-encrusted gold winged medallion, gold bracelets, golden medallion belt with a loincloth in the middle, and almost knee-high red stiletto boots.
 
 #### **Skills:**
 
@@ -62,6 +62,6 @@ _**\*Upon completing Alicia mastery, Antonio will unlock.**_
 
 #### **Skills:**
 
-* **Wicked power -** Antonio awakens her wicked power, increasing her strength and allowing her basic attack to deal additional damage.
-* **Deadly stars -** Antonio uses her belt that has a medallion and can be used as throwing stars.&#x20;
+* **Wicked power -** Antonio awakens his wicked power, increasing his strength and allowing her basic attack to deal additional damage.
+* **Deadly stars -** Antonio uses his belt that has a medallion and can be used as throwing stars.&#x20;
 * **Fist Detonation -** Antonio releases super strength and deals damage through the locked enemy. Damage increases 15%.

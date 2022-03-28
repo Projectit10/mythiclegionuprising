@@ -18,7 +18,7 @@ The total supply of ALN is 350,000,000 tokens
 
 The total supply of ALN will never exceed 350,000,000.
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSASu446aNlY8QGvaMMoW8fieqNBgCTiWpu1bEIq0X-jXBKdcZOrFAkxFe0mxoMvr0OvVs6OSrhX6uM/pubhtml?gid=943473486&single=true" %}
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSASu446aNlY8QGvaMMoW8fieqNBgCTiWpu1bEIq0X-jXBKdcZOrFAkxFe0mxoMvr0OvVs6OSrhX6uM/pubhtml?gid=522606394&single=true" %}
 {% endtab %}
 
 {% tab title="Alon Token" %}
@@ -38,7 +38,7 @@ The total supply of ALN is 350,000,000 tokens
 
 The total supply of ALN will never exceed 350,000,000.
 
-{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSASu446aNlY8QGvaMMoW8fieqNBgCTiWpu1bEIq0X-jXBKdcZOrFAkxFe0mxoMvr0OvVs6OSrhX6uM/pubhtml?gid=943473486&single=true" %}
+{% embed url="https://docs.google.com/spreadsheets/d/e/2PACX-1vSASu446aNlY8QGvaMMoW8fieqNBgCTiWpu1bEIq0X-jXBKdcZOrFAkxFe0mxoMvr0OvVs6OSrhX6uM/pubhtml?gid=1191192303&single=true" %}
 {% endtab %}
 {% endtabs %}
 
