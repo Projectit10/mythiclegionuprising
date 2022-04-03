@@ -5,6 +5,6 @@ description: >-
   HAVE 5 LEVELS. EVERY BOSS HAS A TIME RESTRICTION
 ---
 
-# Liente
+# 🌪 Amian
 
-This boss overrules the kingdom of Hey-an. A God of lightning that has been protecting its kingdom for centuries and unleashes its power to any who dares to provoke him. This boss discharges a lightning bolt that paralyzes enemies and makes them vulnerable to attacks.
+A boss that roams around the highlands of Tandaya. A Goddess of wind that has been cursed and release its anger to anyone she comes across. This boss has unleashed whirlwinds that knocks down enemies and dashes from one place to another to avoid attacks.
