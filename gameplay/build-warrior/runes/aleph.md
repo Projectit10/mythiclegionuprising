@@ -6,4 +6,4 @@ description: >-
 
 # Aleph
 
-![](<../../../.gitbook/assets/image (16).png>)
+![](<../../../.gitbook/assets/image (17).png>)

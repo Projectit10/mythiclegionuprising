@@ -6,4 +6,4 @@ description: >-
 
 # Daleth
 
-![](<../../../.gitbook/assets/image (13).png>)
+![](<../../../.gitbook/assets/image (14).png>)
