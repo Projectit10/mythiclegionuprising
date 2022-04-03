@@ -1,7 +1,5 @@
 # Mythic Legion: The Genesis
 
-![](../.gitbook/assets/unknown.png)
-
 Once in the mythical land of Firipins, there was the most powerful creature of all. He ruled over the land, seas, sky, and even the underworld. Everyone called him by the name Bathala.
 
 The time came when he was about to take his rest which would last billions of years. He decided to create a pair of creatures who would work together to rule his land in replacement of him while he was at rest. He spoke with his majestic voice echoed all over the land, uttering these words:
