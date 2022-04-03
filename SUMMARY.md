@@ -33,6 +33,7 @@
     * [Godnawa](gameplay/gameplay/boss-battle/godnawa.md)
     * [Timbalang](gameplay/gameplay/boss-battle/timbalang.md)
     * [Page 1](gameplay/gameplay/boss-battle/page-1.md)
+    * [Amian](gameplay/gameplay/boss-battle/amian.md)
   * [PVP](gameplay/gameplay/pvp.md)
   * [Tournament](gameplay/gameplay/tournament.md)
   * [Leaderboard](gameplay/gameplay/leaderboard.md)
