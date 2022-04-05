@@ -70,5 +70,6 @@
 
 ## FAQS
 
-* [Terms of Use](faqs/terms-of-use.md)
+* [Terms of Use](faqs/terms-of-use/README.md)
+  * [Intellectual Property](faqs/terms-of-use/intellectual-property.md)
 * [Privacy Policy](faqs/privacy-policy.md)
