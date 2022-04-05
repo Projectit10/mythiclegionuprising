@@ -6,12 +6,10 @@ description: >-
 
 # Daleth
 
-
-
 | Level Required                         |                 Level 1 - 10                |                Level 11 - 20                |                Level 21 - 30                |
 | -------------------------------------- | :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
 | <mark style="color:blue;">Types</mark> | <mark style="color:blue;">**TIER 1**</mark> | <mark style="color:blue;">**TIER 2**</mark> | <mark style="color:blue;">**TIER 3**</mark> |
-| Magic Power                            |                     0.66                    |                     0.92                    |                     1.05                    |
-| Magic Penetration                      |                     0.49                    |                     0.68                    |                     0.87                    |
-|                                        |                                             |                                             |                                             |
-| Spell Vamp                             |                    0.50%                    |                    1.05%                    |                      2%                     |
+| Armor                                  |                    0.7679                   |                    1.333                    |                    2.111                    |
+| Magic Resistance                       |                    0.7425                   |                    1.166                    |                    1.944                    |
+| Health                                 |                     4.48                    |                     6.24                    |                    3.4749                   |
+| Damage Reduction                       |                    0.35%                    |                    0.55%                    |                    1.11%                    |
