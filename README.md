@@ -8,6 +8,24 @@ description: 'This is the official Mythic Legion: Uprising Whitepaper'
 
 ## Mythic Legion: Uprising
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer non felis sit amet ipsum consectetur dapibus quis vel turpis. Etiam eget libero et turpis vulputate tempor. Aenean sodales ante quis pulvinar maximus. Nam sit amet rutrum odio, a faucibus nisl. Nulla scelerisque neque et dolor dictum semper. Vestibulum varius nulla a imperdiet fermentum. Ut tincidunt elit dapibus leo consequat, sed lobortis dui egestas. Ut sodales leo sed tempor tempus. Nunc ut turpis erat. Cras egestas lacinia neque sit amet luctus. Nunc condimentum sapien velit, a tristique est ullamcorper ac. Sed non egestas dui. Quisque in diam nisl. Mauris cursus ex neque, in dictum massa egestas non. Aliquam erat volutpat. Nulla facilisi.
+Mythic Legion: Uprising is a MOBA NFT game based on Blockchain technology that focuses on Play to Earn and strategic planning for the supreme idle gameplay experience! Because of the rapid growth of NFT developments and their influence on the gaming industry, several game projects like Mythic Legion have been developed using NFT. Mythic Legion aims to build an interactive community with a strong economy; Mythic Legion focuses on Play-to-Earn and is designed for aspiring players who would like to experience a competitive environment similar to that of professional E-sports mechanics by leveraging blockchain technology.
 
-Praesent pharetra volutpat hendrerit. Nam ut turpis leo. Aliquam orci urna, rutrum vel elit ut, finibus sagittis orci. Sed ipsum sapien, sollicitudin non ultrices vel, molestie in neque. Vestibulum malesuada semper sapien, quis pulvinar nunc. Nam pellentesque laoreet lectus, nec facilisis lacus. Phasellus congue aliquam quam. Nullam eu lorem elit. Fusce lobortis malesuada euismod. Integer et arcu nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam iaculis, ligula fringilla feugiat posuere, tellus ante venenatis metus, sed lobortis turpis erat hendrerit diam. Donec sit amet dui imperdiet, elementum magna ut, pharetra ex.asdasdasdasdasd
+
+
+Mythic Legion: Uprising is a 5v5 PVP team battle game in which each character/hero in the Mythic Legion is based on a famous Philippine mythical creature. Firipins is a battlefield that is composed of lanes, turrets, minions, and powerful monsters to produce competition and exciting challenges that force them to work hard to accomplish. There are 3 mode game-play in Mythical Legion PVP, Boss Battle, and Tournament.
+
+
+
+· You can use your strategy and competitiveness to defeat other players, form alliances with friends, win tournaments, and earn money.
+
+· To obtain tokens, players must compete in PVP battles, Boss Battles, Tournaments, and Leaderboards.
+
+· Mythical creatures and heroes can be purchased on the market.
+
+· **PLAY TO EARN!!!**
+
+****
+
+The prerelease version is still working, and the full version will be available as soon as possible. Join us and fight alongside us.
+
+**FIGHT, ENJOY, PLAY and EARN!!!**
