@@ -29,7 +29,7 @@
     * [Aleph](gameplay/build-warrior/runes/aleph.md)
     * [He](gameplay/build-warrior/runes/he.md)
     * [Ayin](gameplay/build-warrior/runes/ayin.md)
-    * [RUNE SYMBOLS](gameplay/build-warrior/runes/rune-symbols.md)
+    * [Rune Symbols](gameplay/build-warrior/runes/rune-symbols.md)
   * [Breeding System](gameplay/build-warrior/breeding-system/README.md)
     * [Breeding Cost](gameplay/build-warrior/breeding-system/breeding-cost.md)
     * [Breeding Guide](gameplay/build-warrior/breeding-system/breeding-guide.md)
