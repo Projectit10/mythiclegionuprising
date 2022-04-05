@@ -4,7 +4,7 @@ In Mythic Legion: Uprising, the guild is a group of players who have gathered to
 
 
 
-**Features in Guild**
+### **Features in Guild**
 
 · **Guild Store**: Strictly for Guild members, marketing interesting features are only accessible in this.
 
