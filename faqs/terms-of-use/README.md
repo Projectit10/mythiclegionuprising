@@ -1,6 +1,6 @@
 # Terms of Use
 
-These are the Terms and Conditions governing the agreement that operates between “You” and Mythic Legion: Uprising (“We,” “Us”), A Filipino-based company located at no.27, Commonwealth Ave, Diliman, Quezon City, Metro Manila, regarding your access upon using the www.mythiclegionuprising.com website and the Mythic Legion: Uprising app and any other social media platform linked or connected with the website and app. The Privacy Policy and other essential policies offered by Mythic Legion: Uprising also govern the usage of the Service.
+These will be the Terms and Conditions governing the agreement that operates between “You” and Mythic Legion: Uprising (“We,” “Us”), A Filipino-based company located at no.27, Commonwealth Ave, Diliman, Quezon City, Metro Manila, regarding your access upon using the www.mythiclegionuprising.com website and the Mythic Legion: Uprising app and any other social media platform linked or connected with the Website and app. The Privacy Policy and other essential policies offered by Mythic Legion: Uprising also govern the usage of the Service.
 
 
 
