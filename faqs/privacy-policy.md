@@ -6,9 +6,7 @@ We encourage you to read the Privacy Policy whenever you use our Services so tha
 
 All of our Services are governed by this Privacy Policy.
 
-
-
-**INFORMATION OF USERS**
+### **INFORMATION OF USERS**
 
 We collect different types of Information including your personal data for purpose of improving our Service to you.
 
@@ -28,15 +26,13 @@ Accessing through Computer Usage Data included various information such as your 
 
 Accessing through mobile device the Usage data may include various information such as Mobile phone name (Brand), device unique ID or IMEI and operating system, IP address of Phone, unique device identifiers and other diagnostic data.
 
-&#x20;****&#x20;
-
-**LINK TO OTHER SITES.**
+### **LINK TO OTHER SITES.**
 
 Our Service may contain links to third-party websites that are not under our control. You will be routed to the third party's website if you click on a third-party link. Every site you visit should have a Privacy Policy that you should read.
 
 We have no control over the content, privacy policies, or practices of any third-party sites or services, and we disclaim any responsibility for them.
 
-**AGE, CHILDEN**
+### **AGE, CHILDEN**
 
 Our service is not intended for people under the age of 18 (“children”).
 
@@ -44,16 +40,19 @@ We do not knowingly collect personally identifiable information from anyone unde
 
 If we find that we have collected personal information from a child under the age of 18, we will remove that information as soon as possible. If you believe that we might have any information from or about a child under the age of 18, please contact us at contact@mythiclegion.io.
 
-**DATA RETENTION**\
+### **DATA RETENTION**
+
 We retain your information as long as your account is valid or necessary to serve you**.** If you would like to cancel your account or request that you do not use your information to provide services, please contact mythiclegion.io. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and fulfill our contracts.
 
-**OPTING OUT OF MARKETING**\
-You can opt out of receiving emails from us by sending emails to contact@mythiclegion.io and following the instructions in those emails. Even if you opt out, you may still receive non-promotional emails. B. Email about your account or our ongoing business relationships**.** You can also opt out of receiving SMS notifications from us by either SMS or email on mythiclegion.io
+### **OPTING OUT OF MARKETING**
 
-**INTERNATIONAL TRANSFER**\
+You can opt out of receiving emails from us by sending emails to contact@mythiclegion.io and following the instructions in those emails. Even if you opt out, you may still receive non-promotional emails. B. Email about your account or our ongoing business relationships**.** You can also opt out of receiving SMS notifications from us by either SMS or email on mythiclegion.
+
+### **INTERNATIONAL TRANSFER**
+
 We may transfer information collected about you across national borders from your country or jurisdiction to other countries or world jurisdictions to affiliates or other third parties**.** Please note that these countries and jurisdictions may not have the same data protection laws as your jurisdiction. Transferring information to the United States and other locations**,** and you, including personal information, as described in this policy.
 
-**HOW TO CONTACT US:**
+### **HOW TO CONTACT US:**
 
 When you contact our customer service department, we may gather your email address and use it to contact you about your gaming experience with Mythic Legion and to alert you about corporate news and promotions. You can contact us @mythiclegion.io
 
