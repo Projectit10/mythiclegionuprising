@@ -24,9 +24,9 @@ You may not display or convey the material on our Platforms on any other platfor
 
 The Mythic Legion: Uprising is a competitive MOBA NFT game that pushes players to grind and makes them eager to win games. To have a fair gameplay, conditions must be followed by players. We firmly believe that fairness in games sets free from all bad behavior such as harassments and cheating.
 
-#### **INAPPROPRIATE BEHAVIORS FOR THE GAME:**
+#### **Inappropriate Behaviors for the Game:**
 
-Comms Abuse - Offensive Language, Hateful Speech, Sexual Harassment.&#x20;
+Communication Abuse - Offensive Language, Hateful Speech, Sexual Harassment.&#x20;
 
 Cheating – Third Party Tools, Hacking, Bug Abuse.&#x20;
 
@@ -40,7 +40,7 @@ Threats – Real-life Physical Harm, Emotional Abuse, Cyberbullying.
 
 If you disobey the set of expectations and conditions, we will restrict your account privileges and access in the features in the game. This serves as equal fairness into the game as well as protecting the rest of the community from any violations.
 
-#### **CONSEQUENCES FOR VIOLATORS:**
+#### **Consequences for Violators:**
 
 Losing the ability to use in-game communications.&#x20;
 
