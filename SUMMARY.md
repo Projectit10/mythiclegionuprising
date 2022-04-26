@@ -6,10 +6,6 @@
 * [Team](team.md)
 * [Our Partners](our-partners.md)
 
-## MCC Metaverse
-
-* [Roadmap to Mythic Legion: Uprising](mcc-metaverse/roadmap-to-mythic-legion-uprising.md)
-
 ## Gameplay
 
 * [Mythic Legion: The Genesis](gameplay/mythic-legion-the-genesis.md)
@@ -35,7 +31,6 @@
     * [Breeding Guide](gameplay/build-warrior/breeding-system/breeding-guide.md)
     * [Breeding Class Type](gameplay/build-warrior/breeding-system/breeding-class-type.md)
   * [Level Up](gameplay/build-warrior/level-up.md)
-  * [Skills](gameplay/build-warrior/skills.md)
   * [Skin](gameplay/build-warrior/skin.md)
   * [Battle Ability](gameplay/build-warrior/battle-ability.md)
 * [Gameplay](gameplay/gameplay/README.md)
