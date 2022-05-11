@@ -2,7 +2,7 @@
 description: 'Note: Per skin, there are 3 types of rarity: Common, Rare, and Legendary.'
 ---
 
-# Skin
+# Skins
 
 ### Common
 
@@ -51,8 +51,9 @@ Note: Selling of skins/Transferring ownership of skins will reset the unlocked V
 
 Note: Duplicate skin has a feature of instant selling for a certain value of the token (ex. 5-10 Alon token).
 
-Battle pass skins (Exclusive for battle pass investors)\
-\- This Battle Pass System provide some additional content that makes players invest and grind to get their marvelous reward.
+### Battle pass skins (Exclusive for battle pass investors)&#x20;
+
+This Battle Pass System provide some additional content that makes players invest and grind to get their marvelous reward.
 
 \*Battle pass skins are exclusive and cannot be sold in the marketplace.
 
