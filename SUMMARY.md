@@ -55,13 +55,10 @@
 
 * [Tokenomics](economy/tokenomics.md)
 * [Play to Earn](economy/play-to-earn.md)
-* [Ecosystem](economy/ecosystem.md)
-* [Marketing](economy/marketing.md)
 
-## Official Channel
+## Contact Us
 
-* [Website](official-channel/website.md)
-* [Communities](official-channel/communities.md)
+* [Official Platforms & Contact](contact-us/official-platforms-and-contact.md)
 
 ## FAQS
 
