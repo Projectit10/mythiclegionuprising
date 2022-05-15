@@ -38,7 +38,7 @@ If the Water Mimics are not defeated in a certain amount of time, the Godnawa cr
 
 #### **Droplet Aid**
 
-When HP is low (approx. 5%), dives into the ground to warp to the center of the arena and summon all 9 'Water Mimic' which will heal the boss. If the Water Mimics are not defeated in time (40s), they will be consumed by Godnawa and heal it. Water Mimics that are defeated will not reappear the next time the boss uses this ability.
+When HP is low (approx. 5%), dives into the ground to warp to the center of the arena and summon all 9 'Water Mimic' which will heal the boss. If the Water Mimics are not defeated in time (60s), they will be consumed by Godnawa and heal it. Water Mimics that are defeated will not reappear the next time the boss uses this ability.
 
 #### **Ice Breath**
 
