@@ -8,7 +8,7 @@ A boss that lives on the island of Tarawi. A mythical creature serpentine-lookin
 
 ### Passive
 
-**Godnawa will summons various water animals as mimics that must be fought and defeated in order to make Godnawa vulnerable and she will be Paralyzed for 20s. There are 9 different types of Water Mimics in total that can be Spawned by Godnawa. Each type has a stat of 20% Attack based on Godnawa’s Attack and 10% Godnawa’s HP, as with all other Water wildlife, they can hover on water.**
+**Godnawa gives life to water mimics produced from fragments of her soul which will weaken Godnawa and become vulnerable once the mimics are defeated and she will be Paralyzed for 20s. There are 9 different types of Water Mimics in total that can be Spawned by Godnawa. Each type has a stat of 20% Attack based on Godnawa’s Attack and 10% Godnawa’s HP, as with all other Water wildlife, they can hover on water.**
 
 Note: Godnawa can summon up to 5 **Water Mimics** each Cast.
 
