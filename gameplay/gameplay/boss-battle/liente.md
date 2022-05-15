@@ -8,7 +8,7 @@ This boss overrules the kingdom of Hey-an. A God of lightning that has been prot
 
 ### **Passive**
 
-When Liente hits a player, it has a chance (40%) of draining 5% Mana of the player. Liente’s Attacks cause Static Discharge where Liente infuses its Attacks with Lightning Charge that deals 20% Attack as Lightning Damage which bounces from player to player within a specific range. When Liente reaches 50% HP its mana drain gets stronger by 2% every 10% of HP reduced, maximum of 15%.
+When Liente hits a player, it has a chance (40%) of draining 5% Regen of the player. Liente’s Attacks cause Static Discharge where Liente infuses its Attacks with Lightning Charge that deals 20% Attack as Lightning Damage which bounces from player to player within a specific range. When Liente reaches 50% HP its Regen drain gets stronger by 2% every 10% of HP reduced, maximum of 15% and 45% Increase to Liente's Attack.
 
 ### **Skills**
 
@@ -28,4 +28,4 @@ Liente calls a storm cloud that unleashes deadly DoT (Damage Over Time) that dea
 
 #### **Overload**
 
-Liente charges up for 5s, where Liente gathers Lightning Energy around him and unleashes it causing a powerful AoE (Area of Effect) Lightning Explosion dealing 30% Attack as AoE (Area of Effect) Lightning Damage. And Players hit by Overload gets their mana drained for 10%.
+Liente charges up for 5s, where Liente gathers Lightning Energy around him and unleashes it causing a powerful AoE (Area of Effect) Lightning Explosion dealing 30% Attack as AoE (Area of Effect) Lightning Damage. And Players hit by Overload gets their Regen drained for 10%.
