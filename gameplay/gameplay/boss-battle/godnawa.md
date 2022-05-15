@@ -8,9 +8,9 @@ A boss that lives on the island of Tarawi. A mythical creature serpentine-lookin
 
 ### Passive
 
-**Godnawa will summon various water animals as mimics that must be fought and defeated in order to make Godnawa vulnerable. It will summon different types of mimics in total that can be spawned every time it loses 10% HP. Each type has a decreased stat and deal 20% Attack based on Godnawa’s Attack and 5% Godnawa’s HP, as with all other Water wildlife, they can hover on water.**
+**Godnawa will summon various water animals as mimics that must be fought and defeated in order to make Godnawa vulnerable. It will summon different types of mimics in total that can be spawned every time it loses 10% HP. Each type has a stat of 20% Attack based on Godnawa’s Attack and 10% Godnawa’s HP, as with all other Water wildlife, they can hover on water.**
 
-Godnawa can summon up to 3 Water Mimics each Cast, players must defeat the Water Mimics in order to harm Godnawa
+Godnawa can summon up to 4 Water Mimics each Cast, players must defeat the Water Mimics in order to harm Godnawa
 
 **Water Mimic: Eagle — Flying creatures who swoop down on the player to slash at them with their sharp talons.**
 
@@ -38,7 +38,7 @@ If the Water Mimics are not defeated in a certain amount of time, the Godnawa cr
 
 #### **Droplet Aid**
 
-When HP is low (approx. 5%), dives into the ground to warp to the center of the arena and summon 6 'Water Mimic' which will heal the boss. If the Water Mimics are not defeated in time, they will be consumed by Godnawa and heal it. Water Mimics that are defeated will not reappear the next time the boss uses this ability.
+When HP is low (approx. 5%), dives into the ground to warp to the center of the arena and summon all 9 'Water Mimic' which will heal the boss. If the Water Mimics are not defeated in time (40s), they will be consumed by Godnawa and heal it. Water Mimics that are defeated will not reappear the next time the boss uses this ability.
 
 #### **Ice Breath**
 
