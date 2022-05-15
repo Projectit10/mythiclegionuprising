@@ -8,21 +8,21 @@ A boss that reigns in the violent and explosive land of Raal. It is a demonic cr
 
 ### Passive&#x20;
 
-All of Kifir’s attacks will cause Embered Earth: the floor will become molten for a short period of time, dealing 5% Attack as Fire DoT (Damage Over Time). Moreover, Kifir’s attacks will also amplify the accumulation of Blazing Heat Which reduce Healing Bonus for 10% should the player gets hit by them.
+All of Kifir’s attacks will cause Embered Earth: the floor will become molten for a short period of time, dealing 5% Attack as Fire DoT (Damage Over Time). Moreover, Kifir’s attacks will also amplify the accumulation of Blazing Heat Which reduce Healing Bonus for 10% if the player gets hit by Kifir's attacks
 
 ### Skills
 
 #### **Hellfire Onslaught:**
 
-**Kifir will unleash its wings to summon a rain of small fireball in front, dealing 25% Attack as AoE (Area of Effect) Fire Damage and leaving Embered Earth.**
+Kifir will unleash its wings to summon a rain of small fireball in front, dealing 25% Attack as AoE (Area of Effect) Fire Damage and leaving Embered Earth.
 
 #### **Fire Breath:**
 
-**Unleash a breath of pure elemental power, whilst arcing the attack in a cone-like area in front of itself, rapidly dealing 30% Attack, 20% Attack, or 10% Attack as AoE (Area of Effect) Fire Damage and leaving Embered Earth.**
+Unleash a breath of pure elemental power, whilst arcing the attack in a cone-like area in front of itself, rapidly dealing 30% Attack, 20% Attack, or 10% Attack as AoE (Area of Effect) Fire Damage and leaving Embered Earth.
 
 #### **Eruption:**
 
-**Unleashes a blast of pure Fire power in a huge AoE (Area of Effect) around it, dealing 200% Attack as AoE (Area of Effect) Fire Damage. Once Kifir reaches critical health (Approximately less than 10% Max HP), it will always perform the Eruption skill and leaving Embered Earth in huge AoE (Area of Effect).**
+Unleashes a blast of pure Fire power in a huge AoE (Area of Effect) around it, dealing 200% Attack as AoE (Area of Effect) Fire Damage. Once Kifir reaches critical health (Approximately less than 10% Max HP), it will always perform the Eruption skill and leaving Embered Earth in huge AoE (Area of Effect).
 
 #### **Fire Smash:**
 
