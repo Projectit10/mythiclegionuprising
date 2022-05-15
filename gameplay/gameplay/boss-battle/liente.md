@@ -22,7 +22,7 @@ After some time has passed or its health reaches 50% Liente will cover itself wi
 
 #### **Thunderstorm/Storm Call**
 
-Liente calls a storm cloud that unleashes deadly DoT (Damage Over Time) that deals 5% Attack as Lightning Damage and Lightning Strikes that hit the players every 1s for 20s. Lightning Strikes during the Thunderstorm/Storm Call will ignore 40% Defense of the players. And will trigger Static Discharge each hit.
+Liente calls a storm cloud that unleashes deadly DoT (Damage Over Time) that deals 5% Attack as Lightning Damage and Lightning Strikes that hit the players every 3s for 45s. Lightning Strikes during the Thunderstorm/Storm Call will ignore 40% Defense of the players. And will trigger Static Discharge each hit.
 
 Note: Thunderstorm/Storm Call will attack the nearest Player. If Liente is in the 50% HP Thunderstorm/Storm it will attack a random Player.
 
