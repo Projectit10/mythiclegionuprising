@@ -8,27 +8,27 @@ A boss that lives on the island of Tarawi. A mythical creature serpentine-lookin
 
 ### Passive
 
-Godnawa gives life to water mimics produced from fragments of her soul which will weaken Godnawa and become vulnerable once the mimics are defeated and she will be Paralyzed for 20s. There are 9 different types of Water Mimics in total that can be Spawned by Godnawa. Each type has a stat of 20% Attack based on Godnawa’s Attack and 10% Godnawa’s HP, as with all other Water wildlife, they can hover on water.
+**Godnawa will summon various water animals as mimics that must be fought and defeated in order to harm Godnawa. It will summon different types of mimics. Each type has a stat of 20% Attack based on Godnawa’s Attack and 10% Godnawa’s HP, as with all other Water wildlife, they can hover on water.**
 
-Note: Godnawa can summon up to 5 **Water Mimics** each Cast.
+Note: Godnawa can summon up to 4 Water Mimics each Cast, Godnawa will take damage by 10% HP if all players defeat the Water Mimics cast by Godnawa.
 
-Water Mimic: Eagle — Flying creatures who swoop down on the player to slash at them with their sharp talons.
+**Water Mimic: Eagle — Flying creatures who swoop down on the player to slash at them with their sharp talons.**
 
-Water Mimic: Duck — Duck mimics spews water jets that deals damage to players that got hit.
+**Water Mimic: Duck — Duck mimics spews water jets that deals damage to players that got hit.**
 
-Water Mimic: Tamaraw — Rams the player up close or charges at the player from afar.
+**Water Mimic: Tamaraw — Rams the player up close or charges at the player from afar.**
 
-Water Mimic: Peacock – Performs rapid swipes against the player.
+**Water Mimic: Peacock – Performs rapid swipes against the player.**
 
-Water Mimic: Crocodile – Performs bite attacks that deals heavy damage but moves slow.
+**Water Mimic: Crocodile – Performs bite attacks that deals heavy damage but moves slow.**
 
-Water Mimic: Monkey – Agile creatures and performs fast attacks to players
+**Water Mimic: Monkey – Agile creatures and performs fast attacks to players**
 
-Water Mimic: Crab — Crabs that tend to walk perpendicularly around the player, spewing bubbles from their claws that deal light but rapid Water Damage. They occasionally stop once in a while to rest before moving on.
+**Water Mimic: Crab — Crabs that tend to walk perpendicularly around the player, spewing bubbles from their claws that deal light but rapid Water Damage. They occasionally stop once in a while to rest before moving on.**
 
-Water Mimic: Frog — Frogs that jump and plunge at the player. When at ranged, frogs attacks players with their long ranged tongue whips.
+**Water Mimic: Frog — Frogs that jump and plunge at the player. When at ranged, frogs attacks players with their long ranged tongue whips.**
 
-Water Mimic: Maya — Maya flaps its wings and shoots ranged water waves to the player.
+**Water Mimic: Maya — Maya flaps its wings and shoots ranged water waves to the player.**
 
 ### **Skills**
 

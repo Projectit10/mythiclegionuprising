@@ -24,7 +24,7 @@ Timbalang will stomp its foot 3 times on the ground dealing 0.010% HP as AoE (Ar
 
 Timbalang’s will lift a giant stone that will be smashed at the player, dealing 0.010% HP + (Base Attack) as AoE (Area of Effect) Earth Damage and sending out three trails of shockwaves in front of it that deal 0.010% HP as AoE (Area of Effect) Earth Damage and leaving Tremors on the AoE (Area of Effect), In Rage Mode this attack will always be perform by Timbalang.
 
-#### Earthshaking Ro**ar**
+#### **Earthshaking Roar**
 
 Timbalang’s Roar will shake the ground for 5s deals 10% Attack as Earth DoT (Damage Over Time), Timbalang will gain shield while casting this skill if the shield is broken Timbalang will be Stunned for 5s and if not, this skill will give Timbalang Rage Mode and leaving Tremors on the AoE (Area of Effect).
 
