@@ -10,7 +10,7 @@ A boss that roams around the highlands of Tandaya. A Goddess of wind that has be
 
 When Amian is Losing HP (approx. 10%), Amian will be immune to damage and forms 15 large floating Wind Orbs along with a strong wind current that slows the player’s movement speed for 25% After some time (approx. 15 seconds), absorbs any Wind Orbs that remain, healing a large portion of its HP (approx. 15%) for each orb absorbed. The play must absorb the Wind Orbs to prevent the boss from healing entirely, if an orb is absorbed by the player, it will not respawn the next time if Amian uses this skill again, and if all orbs are absorbed by the player Amian will become vulnerable again And Amian can Perform a Swirl in every Attack, she made those deals 0.05% of Amian’s Attack as small AoE (Area of Effect) Wind Damage.
 
-**(Note: Amian will continue to attack player even she’s in the damage immunity form)**
+Note: Amian will continue to attack player even she’s in the damage immunity form
 
 #### **Ethereal Wind**
 
