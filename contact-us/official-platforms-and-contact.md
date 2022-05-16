@@ -10,7 +10,7 @@ description: >-
 
 ### Website
 
-Official Website ▶️&#x20;
+Official Website ▶️ [https://mythiclegionuprising.web.app/](https://mythiclegionuprising.web.app/)
 
 ### Information
 
