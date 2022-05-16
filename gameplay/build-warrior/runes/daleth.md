@@ -6,6 +6,8 @@ description: >-
 
 # Daleth
 
+![](<../../../.gitbook/assets/image (10).png>)
+
 | Level Required                         |                 Level 1 - 10                |                Level 11 - 20                |                Level 21 - 30                |
 | -------------------------------------- | :-----------------------------------------: | :-----------------------------------------: | :-----------------------------------------: |
 | <mark style="color:blue;">Types</mark> | <mark style="color:blue;">**TIER 1**</mark> | <mark style="color:blue;">**TIER 2**</mark> | <mark style="color:blue;">**TIER 3**</mark> |
