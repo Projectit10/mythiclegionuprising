@@ -10,7 +10,7 @@ description: Core value of connecting people through the entertainment universe
 
 ![](<.gitbook/assets/image (9).png>)
 
-![](<.gitbook/assets/Team Members.jpg>)
+![](<.gitbook/assets/image (3).png>)
 
 ![](<.gitbook/assets/image (1).png>)
 
