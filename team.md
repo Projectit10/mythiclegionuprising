@@ -16,4 +16,4 @@ description: Core value of connecting people through the entertainment universe
 
 ![](<.gitbook/assets/image (10).png>)
 
-![](<.gitbook/assets/Team Members (3).jpg>)
+![](<.gitbook/assets/image (11).png>)
