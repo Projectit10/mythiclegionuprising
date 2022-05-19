@@ -12,7 +12,6 @@ When the game reached 30 minutes of gameplay or when players destroyed more than
 
 Additionally, if there is more than one hero near a minion, the hero who kills the minion will gain the full amount of experience and the other hero/es will only get a portion of experience from the minion, if a minion dies with no hero interaction, all heroes within range can only gain a portion of experience. A slain hero can still gain experience if the minion that the hero interacted with died under 15 seconds.
 
-| **Account Level** | 1 |   | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| ----------------- | - | - | - | - | - | - | - | - | - |
-|                   |   |   |   |   |   |   |   |   |   |
-|                   |   |   |   |   |   |   |   |   |   |
+| **Account Level**       | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   |
+| ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
+| **Experience Required** | 150 | 250 | 350 | 450 | 550 | 650 | 750 | 850 | 950 | 1150 |
