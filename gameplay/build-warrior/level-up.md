@@ -12,6 +12,26 @@ When the game reached 30 minutes of gameplay or when players destroyed more than
 
 Additionally, if there is more than one hero near a minion, the hero who kills the minion will gain the full amount of experience and the other hero/es will only get a portion of experience from the minion, if a minion dies with no hero interaction, all heroes within range can only gain a portion of experience. A slain hero can still gain experience if the minion that the hero interacted with died under 15 seconds.
 
+### Account Level (Tentative)
+
 | **Account Level**       | 1   | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10   |
 | ----------------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---- |
 | **Experience Required** | 150 | 250 | 350 | 450 | 550 | 650 | 750 | 850 | 950 | 1150 |
+
+| **Account Level**       | 11   | 12   | 13   | 14   | 15   | 16   | 17   | 18   | 19   | 20   |
+| ----------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| **Experience Required** | 1450 | 1750 | 2050 | 2450 | 2850 | 3150 | 3750 | 4150 | 4950 | 5450 |
+
+| **Account Level**       | 21   | 22   | 23   | 24   | 25    | 26    | 27    | 28    | 29    | 30    |
+| ----------------------- | ---- | ---- | ---- | ---- | ----- | ----- | ----- | ----- | ----- | ----- |
+| **Experience Required** | 6450 | 7250 | 8350 | 9250 | 10650 | 11250 | 12450 | 13550 | 14250 | 16250 |
+
+### Hero Level (Tentative)
+
+| **Hero Level**          | 1  | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   | 10  |
+| ----------------------- | -- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **Experience Required** | 0  | 150 | 250 | 350 | 450 | 550 | 650 | 750 | 850 | 950 |
+
+| **Hero Level**          | 11   | 12   | 13   | 14   | 15   |
+| ----------------------- | ---- | ---- | ---- | ---- | ---- |
+| **Experience Required** | 1150 | 1250 | 1350 | 1450 | 1650 |
