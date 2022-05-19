@@ -14,7 +14,7 @@ All of Kifir’s attacks will cause Embered Earth: the floor will become molten 
 
 #### **Hellfire Onslaught:**
 
-Kifir will unleash its wings to summon a rain of small fireball in front, dealing 25% Attack as AoE (Area of Effect) Fire Damage and leaving Embered Earth.
+Kifir will unleash his deadly roar to summon a rain of small fireball in front, dealing 25% Attack as AoE (Area of Effect) Fire Damage and leaving Embered Earth.
 
 #### **Fire Breath:**
 
