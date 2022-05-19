@@ -2,11 +2,11 @@
 
 ## Technology
 
-![](.gitbook/assets/Technology.gif)
+![](.gitbook/assets/Technology.jpg)
 
 ## Partners & Investors
 
-![](.gitbook/assets/Partners.gif)
+![](.gitbook/assets/Partners\_and\_investor.jpg)
 
 ## Looking for Partnership?
 
