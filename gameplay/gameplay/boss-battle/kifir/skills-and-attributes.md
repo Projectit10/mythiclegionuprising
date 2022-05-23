@@ -1,8 +1,12 @@
----
-description: 'HP: 5,000,000 Atk: 1,580'
----
-
 # Skills and Attributes
+
+### Attributes
+
+Type: Fire
+
+HP: 5,000,000
+
+Atk: 1,580
 
 ### Passive
 
