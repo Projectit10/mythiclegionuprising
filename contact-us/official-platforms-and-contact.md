@@ -20,7 +20,7 @@ Whitepaper ▶️
 
 ### Social Media&#x20;
 
-Facebook ▶️
+Facebook ▶️ https://www.facebook.com/KapOdanBarangayML/
 
 Twitter ▶️
 
