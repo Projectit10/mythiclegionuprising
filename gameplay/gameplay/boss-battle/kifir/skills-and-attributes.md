@@ -1,12 +1,10 @@
 ---
-description: 'HP: 5,000,000   Atk: 1,580'
+description: 'HP: 5,000,000 Atk: 1,580'
 ---
 
-# 🔥 Kifir
+# Skills and Attributes
 
-A boss that reigns in the violent and explosive land of Raal. It is a demonic creature mixed with a dragon and a boar crazed to kill everything on its path. This boss shoots fire upon its mouth and glides through the area with its fiery wings.
-
-### Passive&#x20;
+### Passive
 
 All of Kifir’s attacks will cause Embered Earth: the floor will become molten for a short period of time, dealing 5% Attack as Fire DoT (Damage Over Time). Moreover, Kifir’s attacks will also amplify the accumulation of Blazing Heat Which reduce Healing Bonus for 10% if the player gets hit by Kifir's attacks
 
@@ -27,4 +25,6 @@ Unleashes a blast of pure Fire power in a huge AoE (Area of Effect) around it, d
 #### **Fire Smash:**
 
 Kifir will slam its hand into the ground after locking onto your current position, dealing 25% Attack as AoE (Area of Effect) Fire Damage on impact and sending tremors through the ground and leaving Embered Earth in the direction of its Fire Smash, with each explosion dealing 15% Attack as AoE (Area of Effect) Fire Damage. This attack may be used 3 times in rapid succession.
+
+
 

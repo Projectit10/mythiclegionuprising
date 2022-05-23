@@ -2,7 +2,7 @@
 description: 'HP: 6,500,000   Atk: 1,190'
 ---
 
-# 🪨 Timbalang
+# Skills and Attibutes
 
 This boss conquers the mainland of Bulo. A muscular creature that is a half human – half horse that wreaked havoc to his enemies. This boss stomps the ground that causes the area to crack and dazed enemies, it jumps high and upon its impact deals massive damage and stuns enemies, and with its horn can deal lethality with its lunge attack.
 
@@ -27,5 +27,3 @@ Timbalang’s will lift a giant stone that will be smashed at the player, dealin
 #### Earthshaking Ro**ar**
 
 Timbalang’s Roar will shake the ground for 5s deals 10% Attack as Earth DoT (Damage Over Time), Timbalang will gain shield while casting this skill if the shield is broken Timbalang will be Stunned for 5s and if not, this skill will give Timbalang Rage Mode and leaving Tremors on the AoE (Area of Effect).
-
-****

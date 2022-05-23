@@ -2,7 +2,7 @@
 description: 'HP: 5,000,000   Atk: 1,190'
 ---
 
-# 🌊 Godnawa
+# Skills and Attributes
 
 A boss that lives on the island of Tarawi. A mythical creature serpentine-looking beast that brings chaos when disturbed in its territory. This boss exhales an Icy breath that freezes enemies along its way and produces a powerful sonic wave with its wings.
 
@@ -47,4 +47,3 @@ Godnawa Unleash a breath of pure elemental power, whilst arcing the attack in ar
 #### **Wave Slam**
 
 Transforms into a Giant Droplet and slams the ground releasing a Tsunami in a line ahead. The Tsunami deals 25% Attack as AoE (Area of Effect) Water Damage, the subsequent bursts deal 15% Attack or 10% Attack as AoE (Area of Effect) Water Damage.
-

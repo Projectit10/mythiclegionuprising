@@ -2,7 +2,7 @@
 description: 'HP: 4,000,000   Atk: 2,150'
 ---
 
-# 🌪 Amian
+# Skills and Attributes
 
 A boss that roams around the highlands of Tandaya. A Goddess of wind that has been cursed and release its anger to anyone she comes across. This boss has unleashed whirlwinds that knocks down enemies and dashes from one place to another to avoid attacks.
 
@@ -27,7 +27,3 @@ Amian will charge up and dragging players nearby before slamming the ground for 
 #### **Glide**
 
 Amian flies and repositions itself near player’s position then dives forward in a straight line this attack may be used 3 times in rapid succession, dealing 20% Attack as Wind damage and dragging all players when hit and performing a Swirl.
-
-
-
-****

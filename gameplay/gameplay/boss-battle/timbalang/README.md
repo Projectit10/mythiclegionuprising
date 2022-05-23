@@ -1,0 +1,7 @@
+# 🪨 Timbalang
+
+### **The Long-Slumbering Earthshaker of Bulo**
+
+A Muscular Stone Skinned Centaur who lives in an underground cave at the far end of the Mainland in Bulo. No one tried to go inside the cave because of its very complex pathways. Many people believe that he is the cause of Earthquakes around the Firipins. One day his behavior suddenly became uncontrollable for no reason where he caused a stampede in the main village of Bulo and he destroyed the houses of the people who live here until all only ruins are left because of Timbalang's behavior, he also did the same thing to nearby villages many people tried to stop Timbalang but they failed and left people injured and nearly lost their lives. As residents try to stop Timbalang from destroying the village, the people there did not expect the sky to suddenly light up and it cast a beam on Timbalang. The residents living in the area can see what is happening to Timbalang as he got hit by a beam of light coming from the sky and Timbalang is screaming and sending him back to his Cave right in front of the eyes of the residents of the village. After this event the life of the villages in the land of Bulo became peaceful and there was no news of anyone suddenly disappearing while they were traveling. They only felt Timbalang’s presence through the rare Earthquakes in the Land of Bulo and they always pray that Timbalang will never disturb them again.
+
+****
