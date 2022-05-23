@@ -45,16 +45,3 @@ Tohan responded with conviction,
 Brace yourselves, for this will be a historic rebellion; the birth of the unending warfare between the mythic legions!
 
 ****
-
-****
-
-
-
-
-
-
-
-
-
-
-
